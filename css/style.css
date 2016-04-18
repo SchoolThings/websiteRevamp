@@ -1,0 +1,87 @@
+body {
+    margin-bottom: 80px;
+    overflow-x: hidden;
+    font-family: "Tahoma", Verdana, Arial;
+}
+.navbar .navbar-inverse {
+    background-color: #f15a22;
+}
+.jumbotron {
+    text-align: center;
+    background-color: #d97020;
+    margin-top: -30px;
+    color: aquamarine;
+}
+.jumbotron .page-header {
+}
+.blog {
+    color: #ccc;
+    height: 50vh;
+    padding: 5px;
+}
+#part-header {
+    text-align: center;
+    color: #555;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+.blog-inner {
+    text-align: center;
+    background-color: #333;
+    margin-top: -3.5px;
+    border-top: 1px solid #666;
+
+}
+.article-footer {
+    text-align: right;
+}
+a {
+    color: #d97020;
+}
+a:hover, a:focus {
+    color:  #f15a22;
+}
+.vote {
+    text-align: center;
+}
+ul {
+    list-style: none;
+}
+.vote ul {
+    background: #333;
+    text-align: center;
+}
+.vote li {
+    margin-left: -30px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.navbar-inverse {
+    background-color: #f15a22;
+    border: hidden;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+hr {
+    color: #555;
+}
+.feature {
+    text-align: center;
+    background-color: #d97020;
+    padding: 25px;
+    -webkit-border-radius: 150px 150px 150px 150px;
+    border-radius: 150px 150px 150px 150px;
+    margin-bottom: 50px;
+    height: 200px;
+}
+.feature #h1 {
+    margin-right: 50px;
+}
+.icon {
+    background-color: orange;
+    padding: 15px;
+    -webkit-border-radius: 150px 150px 150px 150px;
+    border-radius: 150px 150px 150px 150px;
+    margin-bottom: 5px;
+}
